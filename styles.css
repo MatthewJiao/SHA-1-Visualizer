@@ -1,0 +1,52 @@
+.cont{
+    font-family: 'Courier New', sans-serif;
+    border: solid 0.1rem;
+    height: 50px;
+    padding: 1rem;
+    width: 630px;
+    background-color: #8bb6d6;
+
+
+}
+
+.title{
+    font-family: 'Courier New', sans-serif;
+    content: center;
+    text-align: center;
+}
+
+input{
+    background-color: #a4c5de;
+    padding: 2rem;
+    font-family: 'Courier New', sans-serif;
+    color: #000000;
+
+    border: solid 0.1rem;
+}
+
+.move{
+    width: 50%;
+    margin: auto;
+    margin-top: 10rem;
+
+}
+
+.space{
+    height: 3rem;;
+}
+
+::placeholder { 
+    color: #3264a8;
+    opacity: 1; 
+  }
+
+
+.me{
+    position:fixed;bottom:0;
+    padding: 0.5rem;
+    text-align: center;
+    width: 100%;
+
+    font-family: "Century Gothic", sans-serif;
+
+}
